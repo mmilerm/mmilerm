@@ -21,4 +21,4 @@
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,windows,bash,git,github,js&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,windows,bash,git,github,&perline=6)](https://skillicons.dev)
