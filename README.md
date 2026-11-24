@@ -1,8 +1,24 @@
 
-### Olá! Eu sou o Mike Miler 🖐️
+### Hi there! 👋
 
-🚀 Cursando Análise e Desenvolvimento de Sistemas - PUC Minas
+🚀 Systems Analysis and Development Student
 
+💻 Junior IT Analyst | DevOps, Infrastructure & Security
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mikemler) 
+☁️ Cloud Computing & Infrastructure Management
 
+🐳 Containerization & Kubernetes Orchestration
+
+⚙️ CI/CD, GitOps & Infrastructure Automation
+
+🔐 Identity Management & Cybersecurity
+
+📚 Passionate about technology, automation and continuous learning.
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milermike/)
+
+### 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,windows,bash,git,github,js&perline=6)](https://skillicons.dev)
